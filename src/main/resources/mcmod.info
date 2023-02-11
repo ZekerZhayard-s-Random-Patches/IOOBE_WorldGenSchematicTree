@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "ioobe_worldgenschematictree",
+        "name": "IOOBE_WorldGenSchematicTree",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "ZekerZhayard"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
